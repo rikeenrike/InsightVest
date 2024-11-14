@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #252525; /* Dark blue color */
+    color: #ffffff; /* Optional: set text color to white for contrast */
+    font-family: 'Google Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply the same style to #root for React apps */
+  #root {
+    background-color: inherit;
+    min-height: 100vh;
+  }
