@@ -9,13 +9,13 @@ interface LoanEligibilityData {
   loanTenureRequested: number;
 }
 
-export const fetchMessage = async () => {
-  const response = await axios.get('http://127.0.0.1:5000/');
-  return response.data.message;
-};
+// export const fetchMessage = async () => {
+//   const response = await axios.get('http://127.0.0.1:5000/');
+//   return response.data.message;
+// };
 
 export const predictLoanEligibility = async (data: LoanEligibilityData) => {
-  const response = await axios.post('http://127.0.0.1:5000/predict_loan_eligibility', data);
+  const response = await axios.post('https://insight-vest-rho.vercel.app/predict_loan_eligibility', data);
   console.log(response.data);
   return response.data.predicted_eligibility;
 };
