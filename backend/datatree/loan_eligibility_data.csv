@@ -1,0 +1,1001 @@
+Name,Eligibility,Credit Score,Annual Income,Loan Amount Requested,Loan History,Number of Dependents,Loan Tenure Requested (years)
+Camila Torres,Conditionally Eligible,799,44736,32466,Paid,2,7
+Isabella Torres,Not Eligible for Loan,820,26163,36314,Defaulted,5,9
+Miguel Dela Cruz,Not Eligible for Loan,406,94107,45520,Defaulted,3,10
+Camila Reyes,Conditionally Eligible,669,90479,34767,Paid,4,4
+Luis Torres,Not Eligible for Loan,778,42183,7045,Defaulted,3,5
+Sophia Gomez,Not Eligible for Loan,451,56558,46049,Defaulted,2,5
+Jose Flores,Not Eligible for Loan,790,117747,17188,Defaulted,1,2
+Juan Torres,Not Eligible for Loan,527,80556,23360,Defaulted,0,3
+Sophia Reyes,Not Eligible for Loan,364,109308,43037,Defaulted,0,9
+Isabella Gomez,Conditionally Eligible,604,72094,34971,Paid,5,5
+Carlos Garcia,Eligible for Loan,823,105379,24749,Paid,0,2
+Sophia Gomez,Conditionally Eligible,560,61392,41081,Paid,3,7
+Carlos Santos,Not Eligible for Loan,549,36350,6548,Defaulted,4,8
+Jose Santos,Not Eligible for Loan,676,73594,12067,Defaulted,2,5
+Jose Santos,Not Eligible for Loan,446,44846,30972,Paid,2,10
+Miguel Garcia,Not Eligible for Loan,349,67141,43897,Paid,2,3
+Juan Rivera,Not Eligible for Loan,442,102418,44873,Paid,0,8
+Jose Gomez,Not Eligible for Loan,310,107079,22458,Defaulted,1,6
+Miguel Dela Cruz,Conditionally Eligible,558,85438,15175,Paid,0,3
+Camila Flores,Not Eligible for Loan,302,101159,39613,Defaulted,3,1
+Camila Gomez,Not Eligible for Loan,474,44816,24284,Defaulted,5,4
+Miguel Santos,Conditionally Eligible,578,54602,8930,Paid,5,9
+Anna Martinez,Not Eligible for Loan,538,30230,20510,Defaulted,2,7
+Luis Flores,Not Eligible for Loan,531,119661,17429,Defaulted,2,8
+Anna Gomez,Not Eligible for Loan,575,39370,10537,Defaulted,1,2
+Sophia Dela Cruz,Conditionally Eligible,834,28076,17560,Paid,1,3
+Juan Santos,Not Eligible for Loan,406,52116,32494,Paid,3,3
+Maria Dela Cruz,Not Eligible for Loan,517,33806,49421,Defaulted,0,10
+Maria Garcia,Not Eligible for Loan,644,30857,10766,Defaulted,5,5
+Anna Garcia,Eligible for Loan,722,55316,11841,Paid,2,7
+Luis Flores,Conditionally Eligible,677,99660,13077,Paid,1,4
+Miguel Rivera,Not Eligible for Loan,354,52666,21041,Defaulted,4,3
+Jose Dela Cruz,Not Eligible for Loan,599,71025,10824,Defaulted,3,9
+Sophia Martinez,Eligible for Loan,837,111288,19239,Paid,5,6
+Carlos Rivera,Not Eligible for Loan,716,54265,35664,Defaulted,0,9
+Camila Gomez,Eligible for Loan,833,69511,40288,Paid,3,10
+Jose Rivera,Not Eligible for Loan,565,43060,23130,Defaulted,0,4
+Juan Reyes,Not Eligible for Loan,302,47407,20637,Defaulted,2,7
+Carlos Lopez,Not Eligible for Loan,459,95932,48154,Paid,4,6
+Jose Santos,Not Eligible for Loan,356,44930,17004,Paid,3,1
+Maria Martinez,Conditionally Eligible,667,70557,40025,Paid,5,6
+Maria Garcia,Conditionally Eligible,574,63984,30282,Paid,3,5
+Juan Rivera,Not Eligible for Loan,410,54500,14457,Paid,0,7
+Isabella Flores,Conditionally Eligible,511,88492,22754,Paid,5,3
+Miguel Dela Cruz,Not Eligible for Loan,362,72466,15655,Paid,3,4
+Camila Flores,Not Eligible for Loan,775,101669,13417,Defaulted,5,9
+Sophia Lopez,Eligible for Loan,717,100981,45911,Paid,1,6
+Camila Gomez,Not Eligible for Loan,576,101224,49448,Defaulted,1,7
+Anna Gomez,Not Eligible for Loan,373,102669,47501,Paid,2,3
+Sophia Reyes,Eligible for Loan,819,75671,45139,Paid,2,9
+Camila Rivera,Not Eligible for Loan,821,52337,15969,Defaulted,3,3
+Camila Dela Cruz,Conditionally Eligible,780,23429,9314,Paid,1,3
+Luis Dela Cruz,Not Eligible for Loan,359,46599,15335,Paid,0,8
+Luis Gomez,Not Eligible for Loan,598,77475,31567,Defaulted,0,5
+Maria Dela Cruz,Not Eligible for Loan,754,96181,18721,Defaulted,4,7
+Camila Martinez,Conditionally Eligible,775,23575,47476,Paid,5,9
+Miguel Reyes,Eligible for Loan,791,68460,31547,Paid,0,2
+Juan Santos,Not Eligible for Loan,617,77158,17296,Defaulted,2,4
+Isabella Flores,Eligible for Loan,788,117293,11162,Paid,2,5
+Camila Rivera,Not Eligible for Loan,482,28004,29118,Paid,0,9
+Anna Garcia,Not Eligible for Loan,349,80039,43517,Paid,5,7
+Camila Santos,Not Eligible for Loan,483,30119,23979,Paid,0,4
+Miguel Dela Cruz,Not Eligible for Loan,402,93072,20118,Paid,3,2
+Isabella Santos,Eligible for Loan,841,100088,44606,Paid,5,5
+Luis Lopez,Not Eligible for Loan,391,99039,26315,Defaulted,5,7
+Miguel Gomez,Eligible for Loan,820,96869,38711,Paid,1,2
+Camila Torres,Not Eligible for Loan,819,111774,34126,Defaulted,0,3
+Carlos Santos,Conditionally Eligible,699,52920,44556,Paid,5,8
+Sophia Torres,Conditionally Eligible,644,73553,16689,Paid,1,8
+Luis Santos,Not Eligible for Loan,816,44864,23721,Defaulted,1,7
+Jose Lopez,Conditionally Eligible,525,30201,34855,Paid,5,4
+Jose Martinez,Conditionally Eligible,528,47783,19640,Paid,2,7
+Isabella Martinez,Conditionally Eligible,514,32895,9755,Paid,4,9
+Miguel Reyes,Not Eligible for Loan,343,54745,25138,Paid,4,1
+Jose Gomez,Not Eligible for Loan,347,70319,7012,Defaulted,4,7
+Juan Torres,Not Eligible for Loan,543,24974,11009,Defaulted,4,10
+Sophia Dela Cruz,Not Eligible for Loan,341,31466,39114,Paid,1,8
+Anna Reyes,Conditionally Eligible,591,90628,23018,Paid,1,8
+Sophia Flores,Conditionally Eligible,564,24211,21661,Paid,4,8
+Juan Martinez,Not Eligible for Loan,331,96760,7342,Paid,3,5
+Camila Flores,Not Eligible for Loan,324,73588,13828,Paid,1,8
+Carlos Torres,Not Eligible for Loan,416,110330,41421,Paid,3,2
+Camila Reyes,Not Eligible for Loan,497,54891,45944,Defaulted,3,5
+Carlos Rivera,Not Eligible for Loan,722,114781,30239,Defaulted,3,2
+Jose Torres,Not Eligible for Loan,614,63494,21777,Defaulted,5,6
+Isabella Santos,Conditionally Eligible,800,26041,19385,Paid,3,8
+Jose Lopez,Not Eligible for Loan,385,36736,21845,Paid,5,2
+Juan Martinez,Not Eligible for Loan,371,90112,26418,Defaulted,3,4
+Carlos Reyes,Not Eligible for Loan,771,49829,36404,Defaulted,4,4
+Isabella Torres,Conditionally Eligible,535,32171,8450,Paid,0,3
+Anna Gomez,Not Eligible for Loan,825,66401,29157,Defaulted,5,9
+Isabella Garcia,Not Eligible for Loan,486,118367,29657,Defaulted,1,7
+Camila Lopez,Not Eligible for Loan,319,101888,17677,Defaulted,0,10
+Jose Dela Cruz,Not Eligible for Loan,320,57377,23512,Paid,2,9
+Camila Gomez,Not Eligible for Loan,675,65608,27861,Defaulted,3,1
+Anna Torres,Not Eligible for Loan,402,27238,37528,Defaulted,2,3
+Anna Martinez,Not Eligible for Loan,469,111873,48425,Defaulted,0,10
+Anna Dela Cruz,Not Eligible for Loan,791,108073,16976,Defaulted,2,8
+Carlos Lopez,Not Eligible for Loan,407,83016,15507,Paid,4,1
+Luis Garcia,Conditionally Eligible,744,35607,9702,Paid,1,10
+Jose Rivera,Not Eligible for Loan,530,53700,40548,Defaulted,1,10
+Luis Dela Cruz,Conditionally Eligible,636,96264,11147,Paid,5,8
+Isabella Garcia,Not Eligible for Loan,759,116137,10026,Defaulted,3,9
+Sophia Flores,Not Eligible for Loan,491,28021,44207,Paid,1,6
+Carlos Dela Cruz,Eligible for Loan,744,117027,17808,Paid,4,6
+Maria Torres,Conditionally Eligible,768,31365,31838,Paid,3,9
+Luis Flores,Not Eligible for Loan,389,29701,27303,Defaulted,3,6
+Isabella Lopez,Conditionally Eligible,714,48255,18072,Paid,0,10
+Sophia Garcia,Not Eligible for Loan,458,103179,28523,Defaulted,0,5
+Isabella Torres,Not Eligible for Loan,581,43710,9710,Defaulted,2,6
+Maria Santos,Not Eligible for Loan,337,48170,28384,Paid,2,4
+Maria Garcia,Not Eligible for Loan,741,88907,39453,Defaulted,3,4
+Maria Lopez,Not Eligible for Loan,390,71633,10873,Paid,0,8
+Luis Lopez,Not Eligible for Loan,472,53201,5656,Defaulted,3,10
+Maria Santos,Conditionally Eligible,554,103383,18894,Paid,0,8
+Camila Garcia,Conditionally Eligible,557,100578,49001,Paid,0,3
+Sophia Martinez,Not Eligible for Loan,433,93081,20549,Paid,2,5
+Maria Lopez,Conditionally Eligible,539,119489,42888,Paid,2,7
+Juan Rivera,Not Eligible for Loan,314,38935,9844,Paid,5,1
+Camila Lopez,Not Eligible for Loan,584,70361,43142,Defaulted,5,10
+Anna Lopez,Conditionally Eligible,792,27289,33072,Paid,3,1
+Maria Martinez,Not Eligible for Loan,503,62788,39678,Defaulted,2,7
+Isabella Garcia,Eligible for Loan,784,55438,46126,Paid,4,8
+Anna Martinez,Not Eligible for Loan,369,94802,14477,Paid,0,5
+Juan Gomez,Eligible for Loan,715,92358,21121,Paid,5,1
+Miguel Garcia,Not Eligible for Loan,554,98456,18694,Defaulted,0,3
+Isabella Gomez,Eligible for Loan,741,108892,33856,Paid,4,3
+Carlos Gomez,Not Eligible for Loan,345,106929,44780,Defaulted,4,2
+Maria Dela Cruz,Conditionally Eligible,682,20281,23081,Paid,5,2
+Carlos Reyes,Not Eligible for Loan,327,105926,45691,Paid,3,1
+Juan Dela Cruz,Not Eligible for Loan,337,25570,22608,Paid,3,8
+Maria Torres,Not Eligible for Loan,806,38585,32581,Defaulted,2,10
+Sophia Martinez,Not Eligible for Loan,384,58491,11919,Defaulted,4,8
+Jose Martinez,Not Eligible for Loan,459,63612,7870,Paid,3,8
+Luis Dela Cruz,Eligible for Loan,754,53357,44135,Paid,1,1
+Jose Martinez,Not Eligible for Loan,326,49163,29584,Paid,1,4
+Isabella Lopez,Not Eligible for Loan,348,47142,44520,Paid,5,1
+Luis Garcia,Not Eligible for Loan,426,82640,35956,Defaulted,4,9
+Carlos Torres,Conditionally Eligible,651,20248,37314,Paid,2,7
+Camila Martinez,Not Eligible for Loan,529,87571,9053,Defaulted,0,5
+Anna Flores,Not Eligible for Loan,325,65601,38760,Paid,4,6
+Maria Torres,Not Eligible for Loan,637,66932,13711,Defaulted,1,5
+Juan Lopez,Not Eligible for Loan,545,31355,8026,Defaulted,1,7
+Sophia Torres,Conditionally Eligible,555,103659,22239,Paid,0,9
+Anna Lopez,Eligible for Loan,762,103197,31583,Paid,3,5
+Miguel Rivera,Not Eligible for Loan,643,91987,26121,Defaulted,1,10
+Juan Reyes,Eligible for Loan,823,59696,15505,Paid,4,3
+Jose Santos,Conditionally Eligible,674,41303,32563,Paid,1,9
+Jose Reyes,Not Eligible for Loan,728,64013,11631,Defaulted,1,5
+Luis Flores,Not Eligible for Loan,310,114220,23899,Defaulted,1,6
+Sophia Garcia,Not Eligible for Loan,471,77070,24315,Defaulted,4,3
+Juan Lopez,Conditionally Eligible,621,38530,16811,Paid,4,10
+Anna Flores,Not Eligible for Loan,620,83680,22117,Defaulted,1,1
+Miguel Dela Cruz,Not Eligible for Loan,413,102906,16647,Paid,5,8
+Carlos Rivera,Not Eligible for Loan,581,89329,34087,Defaulted,2,2
+Miguel Dela Cruz,Not Eligible for Loan,521,106167,49532,Defaulted,4,8
+Isabella Garcia,Eligible for Loan,709,101260,11105,Paid,5,10
+Maria Rivera,Not Eligible for Loan,391,109603,9537,Defaulted,0,7
+Carlos Reyes,Not Eligible for Loan,835,34288,46926,Defaulted,3,10
+Carlos Rivera,Not Eligible for Loan,429,23703,30733,Defaulted,2,2
+Jose Flores,Not Eligible for Loan,443,31148,15025,Defaulted,4,7
+Camila Dela Cruz,Not Eligible for Loan,662,36611,15190,Defaulted,3,6
+Jose Flores,Not Eligible for Loan,623,87715,38989,Defaulted,5,4
+Carlos Gomez,Not Eligible for Loan,386,87657,27066,Defaulted,3,8
+Luis Flores,Conditionally Eligible,507,85913,30825,Paid,1,8
+Camila Torres,Conditionally Eligible,649,112474,7871,Paid,1,5
+Sophia Lopez,Not Eligible for Loan,460,66698,15492,Defaulted,1,1
+Luis Torres,Not Eligible for Loan,739,25291,29574,Defaulted,2,3
+Sophia Santos,Not Eligible for Loan,480,107508,21129,Paid,0,8
+Luis Santos,Not Eligible for Loan,535,47544,15162,Defaulted,0,7
+Camila Santos,Eligible for Loan,808,76215,37575,Paid,5,5
+Camila Dela Cruz,Eligible for Loan,727,68888,27084,Paid,2,10
+Isabella Santos,Conditionally Eligible,806,23545,35657,Paid,2,10
+Miguel Torres,Not Eligible for Loan,587,118193,48439,Defaulted,5,10
+Juan Garcia,Not Eligible for Loan,796,95456,26459,Defaulted,3,6
+Sophia Torres,Conditionally Eligible,643,81709,34444,Paid,2,10
+Jose Rivera,Not Eligible for Loan,346,47604,22106,Defaulted,0,9
+Juan Santos,Not Eligible for Loan,313,29126,13148,Defaulted,5,8
+Jose Martinez,Not Eligible for Loan,325,101634,7009,Defaulted,1,2
+Camila Reyes,Not Eligible for Loan,733,56422,32277,Defaulted,1,10
+Jose Flores,Not Eligible for Loan,380,65908,8143,Paid,5,8
+Carlos Lopez,Not Eligible for Loan,779,101370,49546,Defaulted,5,5
+Juan Garcia,Not Eligible for Loan,530,47000,11386,Defaulted,5,7
+Jose Flores,Not Eligible for Loan,470,119687,25842,Paid,1,1
+Miguel Gomez,Not Eligible for Loan,391,49008,46552,Defaulted,1,6
+Carlos Lopez,Not Eligible for Loan,357,111298,42472,Defaulted,3,8
+Juan Martinez,Conditionally Eligible,622,86419,35734,Paid,2,2
+Carlos Flores,Not Eligible for Loan,746,108933,8764,Defaulted,5,1
+Camila Flores,Not Eligible for Loan,692,80664,25517,Defaulted,1,2
+Anna Reyes,Not Eligible for Loan,541,38137,20477,Defaulted,1,4
+Sophia Garcia,Conditionally Eligible,594,115141,41638,Paid,4,7
+Miguel Dela Cruz,Not Eligible for Loan,798,49829,40362,Defaulted,1,8
+Luis Santos,Conditionally Eligible,541,97844,15540,Paid,4,8
+Luis Gomez,Eligible for Loan,778,119928,5723,Paid,3,4
+Miguel Lopez,Not Eligible for Loan,712,24191,44427,Defaulted,3,8
+Camila Flores,Conditionally Eligible,675,71641,20753,Paid,4,10
+Anna Dela Cruz,Not Eligible for Loan,695,35167,42041,Defaulted,0,9
+Carlos Reyes,Eligible for Loan,839,53935,17802,Paid,3,6
+Miguel Garcia,Not Eligible for Loan,347,55909,13071,Paid,2,3
+Camila Gomez,Not Eligible for Loan,703,48319,18268,Defaulted,1,5
+Juan Martinez,Not Eligible for Loan,303,57270,39467,Defaulted,3,2
+Camila Santos,Not Eligible for Loan,454,117246,46331,Defaulted,4,3
+Camila Torres,Eligible for Loan,785,79907,35994,Paid,3,5
+Sophia Gomez,Not Eligible for Loan,820,103895,43619,Defaulted,0,6
+Jose Santos,Not Eligible for Loan,735,33517,37009,Defaulted,4,6
+Jose Dela Cruz,Not Eligible for Loan,442,61316,21023,Paid,5,10
+Isabella Martinez,Eligible for Loan,706,89649,17052,Paid,0,4
+Luis Dela Cruz,Not Eligible for Loan,316,119539,28353,Defaulted,3,6
+Juan Lopez,Not Eligible for Loan,516,33250,23778,Defaulted,0,7
+Miguel Torres,Eligible for Loan,808,75795,36796,Paid,3,10
+Miguel Torres,Not Eligible for Loan,767,27065,39950,Defaulted,0,5
+Jose Dela Cruz,Conditionally Eligible,839,49740,41727,Paid,5,6
+Luis Lopez,Not Eligible for Loan,606,60811,29905,Defaulted,3,10
+Anna Garcia,Not Eligible for Loan,478,27011,21138,Paid,1,6
+Camila Torres,Not Eligible for Loan,438,110248,15955,Paid,3,8
+Carlos Torres,Not Eligible for Loan,793,38316,45275,Defaulted,1,1
+Carlos Torres,Conditionally Eligible,572,114852,27034,Paid,2,3
+Sophia Santos,Conditionally Eligible,821,37951,44564,Paid,4,10
+Jose Martinez,Not Eligible for Loan,559,32268,9283,Defaulted,5,4
+Camila Lopez,Conditionally Eligible,513,66888,10489,Paid,1,10
+Sophia Dela Cruz,Not Eligible for Loan,769,32321,29250,Defaulted,5,7
+Jose Reyes,Not Eligible for Loan,471,75355,21608,Paid,3,5
+Carlos Flores,Not Eligible for Loan,347,23316,40159,Defaulted,4,6
+Isabella Dela Cruz,Not Eligible for Loan,496,88440,10228,Paid,4,1
+Carlos Reyes,Not Eligible for Loan,370,110672,20281,Defaulted,4,1
+Luis Torres,Not Eligible for Loan,422,86518,43679,Paid,4,5
+Maria Martinez,Conditionally Eligible,667,36407,44402,Paid,0,4
+Carlos Martinez,Not Eligible for Loan,306,67028,42575,Defaulted,2,8
+Anna Dela Cruz,Not Eligible for Loan,839,102733,47062,Defaulted,4,3
+Isabella Reyes,Not Eligible for Loan,560,110155,37672,Defaulted,5,6
+Luis Flores,Not Eligible for Loan,593,35731,49186,Defaulted,4,2
+Anna Dela Cruz,Not Eligible for Loan,677,62580,47722,Defaulted,5,4
+Luis Flores,Conditionally Eligible,684,45462,23278,Paid,0,3
+Miguel Torres,Not Eligible for Loan,340,80775,41505,Paid,1,3
+Camila Torres,Not Eligible for Loan,753,93020,33411,Defaulted,5,10
+Maria Garcia,Conditionally Eligible,578,94524,37308,Paid,0,2
+Sophia Garcia,Not Eligible for Loan,473,35206,34355,Defaulted,0,3
+Anna Reyes,Not Eligible for Loan,548,92740,7161,Defaulted,4,9
+Luis Garcia,Conditionally Eligible,586,79668,33492,Paid,5,6
+Luis Reyes,Conditionally Eligible,659,101781,44685,Paid,3,4
+Miguel Reyes,Not Eligible for Loan,364,104204,19784,Defaulted,5,1
+Camila Gomez,Not Eligible for Loan,615,96307,35028,Defaulted,2,7
+Sophia Dela Cruz,Conditionally Eligible,791,30345,22579,Paid,5,3
+Juan Gomez,Not Eligible for Loan,691,90088,21949,Defaulted,2,10
+Miguel Lopez,Not Eligible for Loan,368,112477,7085,Paid,4,8
+Camila Torres,Not Eligible for Loan,776,61590,9209,Defaulted,5,9
+Sophia Dela Cruz,Eligible for Loan,769,115119,21397,Paid,2,8
+Jose Torres,Not Eligible for Loan,595,32836,15158,Defaulted,5,4
+Camila Martinez,Not Eligible for Loan,424,34338,32354,Defaulted,1,10
+Isabella Dela Cruz,Not Eligible for Loan,601,85111,24664,Defaulted,3,8
+Maria Santos,Conditionally Eligible,837,36035,20986,Paid,1,8
+Luis Santos,Not Eligible for Loan,330,29913,13125,Paid,0,7
+Miguel Martinez,Not Eligible for Loan,804,49369,29510,Defaulted,2,3
+Carlos Reyes,Not Eligible for Loan,771,48189,47931,Defaulted,4,1
+Isabella Flores,Conditionally Eligible,633,52141,43566,Paid,2,6
+Camila Reyes,Not Eligible for Loan,309,88756,32300,Defaulted,4,6
+Sophia Garcia,Not Eligible for Loan,470,65692,46862,Paid,3,8
+Juan Dela Cruz,Eligible for Loan,701,95777,12341,Paid,0,8
+Luis Flores,Not Eligible for Loan,557,87784,15947,Defaulted,5,7
+Juan Flores,Not Eligible for Loan,817,50124,14223,Defaulted,4,9
+Juan Dela Cruz,Not Eligible for Loan,570,60813,25556,Defaulted,1,2
+Sophia Rivera,Conditionally Eligible,648,45593,18647,Paid,4,7
+Miguel Dela Cruz,Not Eligible for Loan,598,63175,28237,Defaulted,4,5
+Jose Santos,Not Eligible for Loan,410,55444,32174,Defaulted,2,9
+Miguel Rivera,Not Eligible for Loan,481,114036,9611,Defaulted,1,4
+Luis Garcia,Not Eligible for Loan,486,43127,11652,Defaulted,4,6
+Anna Torres,Not Eligible for Loan,827,90293,22970,Defaulted,3,6
+Camila Martinez,Not Eligible for Loan,801,102086,16372,Defaulted,1,8
+Sophia Torres,Not Eligible for Loan,395,115912,41842,Paid,0,5
+Jose Flores,Conditionally Eligible,675,101191,46814,Paid,2,3
+Miguel Garcia,Not Eligible for Loan,643,106075,19662,Defaulted,4,2
+Sophia Dela Cruz,Conditionally Eligible,569,115512,28717,Paid,4,10
+Juan Garcia,Not Eligible for Loan,503,86899,5817,Defaulted,0,1
+Sophia Dela Cruz,Not Eligible for Loan,652,43260,13494,Defaulted,4,4
+Maria Martinez,Not Eligible for Loan,666,54563,38252,Defaulted,0,1
+Carlos Santos,Not Eligible for Loan,627,108296,18969,Defaulted,2,3
+Miguel Dela Cruz,Not Eligible for Loan,333,61207,7339,Defaulted,4,9
+Camila Torres,Not Eligible for Loan,492,113349,31096,Defaulted,5,4
+Anna Martinez,Not Eligible for Loan,773,96791,32584,Defaulted,3,6
+Luis Reyes,Not Eligible for Loan,605,111620,26437,Defaulted,1,1
+Camila Martinez,Not Eligible for Loan,465,25376,30204,Defaulted,4,10
+Juan Gomez,Not Eligible for Loan,507,45971,10376,Defaulted,3,8
+Miguel Reyes,Not Eligible for Loan,384,58983,49348,Paid,1,6
+Maria Flores,Not Eligible for Loan,831,21430,13520,Defaulted,4,1
+Isabella Gomez,Conditionally Eligible,826,29152,39426,Paid,0,6
+Jose Reyes,Not Eligible for Loan,714,53459,10416,Defaulted,2,2
+Miguel Gomez,Not Eligible for Loan,653,57692,39400,Defaulted,0,5
+Isabella Reyes,Not Eligible for Loan,377,65090,47007,Paid,3,9
+Isabella Reyes,Not Eligible for Loan,456,51406,20120,Defaulted,3,2
+Juan Flores,Not Eligible for Loan,614,68800,11725,Defaulted,5,3
+Anna Gomez,Not Eligible for Loan,828,91521,20809,Defaulted,5,9
+Carlos Lopez,Not Eligible for Loan,737,59791,47354,Defaulted,2,7
+Sophia Flores,Eligible for Loan,782,100075,19534,Paid,0,9
+Anna Flores,Not Eligible for Loan,491,28204,6910,Paid,4,1
+Anna Dela Cruz,Not Eligible for Loan,565,41147,28185,Defaulted,0,5
+Juan Reyes,Not Eligible for Loan,406,44047,11722,Paid,3,4
+Carlos Gomez,Not Eligible for Loan,605,74143,23307,Defaulted,4,10
+Juan Dela Cruz,Not Eligible for Loan,397,27985,29275,Paid,2,5
+Anna Torres,Not Eligible for Loan,490,86670,15362,Paid,5,10
+Jose Gomez,Not Eligible for Loan,316,103758,36795,Paid,0,7
+Jose Reyes,Conditionally Eligible,530,116253,22042,Paid,3,10
+Juan Flores,Eligible for Loan,802,119561,44777,Paid,1,10
+Luis Reyes,Not Eligible for Loan,324,66283,21043,Paid,3,6
+Carlos Garcia,Conditionally Eligible,614,45303,29179,Paid,4,8
+Camila Reyes,Not Eligible for Loan,440,33983,6279,Paid,2,4
+Anna Rivera,Not Eligible for Loan,460,86825,33840,Defaulted,4,3
+Jose Martinez,Conditionally Eligible,782,27006,31412,Paid,0,4
+Sophia Rivera,Not Eligible for Loan,746,93552,43834,Defaulted,3,8
+Jose Reyes,Not Eligible for Loan,399,28305,15249,Defaulted,4,10
+Sophia Torres,Not Eligible for Loan,394,26222,21200,Paid,5,5
+Maria Martinez,Not Eligible for Loan,310,116866,29707,Defaulted,1,5
+Juan Santos,Not Eligible for Loan,360,68725,49553,Paid,4,4
+Maria Martinez,Conditionally Eligible,542,40502,17652,Paid,5,5
+Luis Reyes,Not Eligible for Loan,464,57335,41506,Defaulted,4,1
+Isabella Torres,Conditionally Eligible,744,21717,13347,Paid,0,1
+Sophia Santos,Eligible for Loan,708,89845,20427,Paid,2,4
+Camila Torres,Conditionally Eligible,504,96770,37654,Paid,5,3
+Miguel Flores,Not Eligible for Loan,832,101981,11657,Defaulted,5,7
+Luis Martinez,Not Eligible for Loan,757,27939,27308,Defaulted,1,7
+Anna Garcia,Not Eligible for Loan,349,67620,25834,Defaulted,1,8
+Carlos Reyes,Not Eligible for Loan,834,73362,36186,Defaulted,0,6
+Jose Reyes,Conditionally Eligible,650,112249,42777,Paid,3,6
+Anna Gomez,Not Eligible for Loan,470,32873,14890,Defaulted,0,10
+Carlos Dela Cruz,Not Eligible for Loan,540,91283,46231,Defaulted,0,10
+Miguel Gomez,Not Eligible for Loan,661,66809,9227,Defaulted,5,1
+Luis Torres,Conditionally Eligible,563,39924,13499,Paid,2,5
+Sophia Reyes,Not Eligible for Loan,351,43391,31075,Paid,2,5
+Maria Dela Cruz,Conditionally Eligible,651,108571,30571,Paid,0,7
+Camila Gomez,Not Eligible for Loan,842,67616,49407,Defaulted,3,6
+Isabella Rivera,Not Eligible for Loan,331,113930,24280,Defaulted,1,4
+Camila Lopez,Not Eligible for Loan,388,57614,36975,Defaulted,2,5
+Sophia Torres,Not Eligible for Loan,711,42419,22284,Defaulted,0,3
+Isabella Santos,Not Eligible for Loan,542,55693,20643,Defaulted,0,6
+Juan Martinez,Eligible for Loan,837,117468,23701,Paid,5,9
+Miguel Gomez,Not Eligible for Loan,838,39668,25701,Defaulted,0,1
+Anna Flores,Not Eligible for Loan,517,104590,13234,Defaulted,4,9
+Juan Torres,Conditionally Eligible,672,22347,22102,Paid,0,6
+Carlos Garcia,Conditionally Eligible,586,91994,12174,Paid,4,1
+Miguel Lopez,Not Eligible for Loan,603,49570,49714,Defaulted,1,5
+Jose Dela Cruz,Not Eligible for Loan,352,64182,43133,Defaulted,1,7
+Carlos Lopez,Eligible for Loan,736,88158,28071,Paid,5,6
+Luis Gomez,Not Eligible for Loan,345,85230,9699,Defaulted,2,2
+Sophia Dela Cruz,Not Eligible for Loan,701,69674,14549,Defaulted,2,7
+Isabella Dela Cruz,Not Eligible for Loan,384,77977,38008,Paid,0,10
+Anna Torres,Not Eligible for Loan,315,99739,20780,Paid,1,4
+Miguel Dela Cruz,Not Eligible for Loan,569,38093,43760,Defaulted,4,2
+Anna Torres,Not Eligible for Loan,319,26304,14663,Paid,3,1
+Isabella Gomez,Conditionally Eligible,507,43418,15396,Paid,1,8
+Sophia Torres,Not Eligible for Loan,452,33752,26857,Defaulted,1,8
+Luis Dela Cruz,Conditionally Eligible,667,97810,14583,Paid,3,6
+Jose Rivera,Eligible for Loan,710,58216,46736,Paid,5,7
+Sophia Santos,Conditionally Eligible,550,74734,40167,Paid,2,7
+Camila Santos,Eligible for Loan,751,75765,10816,Paid,4,8
+Anna Martinez,Conditionally Eligible,570,78372,42567,Paid,5,2
+Carlos Martinez,Conditionally Eligible,521,95690,45882,Paid,1,9
+Isabella Torres,Not Eligible for Loan,650,42013,10276,Defaulted,2,9
+Juan Gomez,Not Eligible for Loan,312,94164,48534,Paid,0,8
+Maria Santos,Not Eligible for Loan,347,85645,14414,Paid,5,8
+Isabella Martinez,Not Eligible for Loan,332,119248,10014,Paid,5,8
+Sophia Garcia,Not Eligible for Loan,834,24453,17627,Defaulted,4,9
+Juan Garcia,Conditionally Eligible,676,116922,22286,Paid,1,9
+Isabella Flores,Not Eligible for Loan,780,80210,20724,Defaulted,4,8
+Jose Martinez,Eligible for Loan,842,75856,33262,Paid,5,6
+Jose Reyes,Not Eligible for Loan,799,35952,16620,Defaulted,4,7
+Carlos Rivera,Not Eligible for Loan,384,109685,48020,Paid,1,9
+Sophia Garcia,Not Eligible for Loan,772,50919,36158,Defaulted,1,5
+Luis Flores,Not Eligible for Loan,679,43433,27199,Defaulted,5,6
+Jose Martinez,Conditionally Eligible,582,68361,9559,Paid,4,2
+Jose Flores,Not Eligible for Loan,722,95582,9081,Defaulted,2,7
+Carlos Flores,Not Eligible for Loan,400,97947,17662,Defaulted,4,5
+Anna Santos,Not Eligible for Loan,482,40871,14671,Paid,2,6
+Isabella Flores,Not Eligible for Loan,768,53717,21879,Defaulted,2,7
+Sophia Gomez,Not Eligible for Loan,318,83243,42235,Defaulted,2,10
+Camila Lopez,Not Eligible for Loan,595,38570,20626,Defaulted,3,7
+Jose Martinez,Eligible for Loan,713,110090,22415,Paid,3,3
+Isabella Martinez,Not Eligible for Loan,543,46695,11586,Defaulted,2,7
+Sophia Santos,Not Eligible for Loan,343,67770,18658,Paid,2,3
+Miguel Dela Cruz,Conditionally Eligible,786,28832,5744,Paid,3,2
+Luis Gomez,Not Eligible for Loan,418,41479,22522,Defaulted,2,6
+Jose Dela Cruz,Not Eligible for Loan,357,55010,45244,Paid,0,2
+Juan Garcia,Not Eligible for Loan,367,61208,16540,Paid,3,10
+Juan Santos,Not Eligible for Loan,448,109954,44815,Defaulted,5,7
+Luis Martinez,Conditionally Eligible,604,66481,9750,Paid,0,7
+Camila Garcia,Conditionally Eligible,603,62385,17623,Paid,0,3
+Sophia Reyes,Not Eligible for Loan,830,59479,7186,Defaulted,5,3
+Anna Dela Cruz,Conditionally Eligible,516,69332,40553,Paid,1,8
+Luis Gomez,Conditionally Eligible,668,22086,6715,Paid,2,5
+Camila Lopez,Eligible for Loan,799,63268,39762,Paid,3,2
+Isabella Torres,Not Eligible for Loan,841,68294,37787,Defaulted,5,7
+Anna Reyes,Eligible for Loan,802,54575,22835,Paid,2,4
+Maria Rivera,Not Eligible for Loan,459,97070,15273,Defaulted,1,1
+Luis Gomez,Not Eligible for Loan,495,42549,14050,Paid,4,1
+Maria Santos,Not Eligible for Loan,442,96248,41100,Paid,5,7
+Anna Torres,Not Eligible for Loan,315,86868,24906,Paid,1,7
+Camila Torres,Eligible for Loan,808,84641,24466,Paid,1,6
+Luis Rivera,Not Eligible for Loan,638,43714,36947,Defaulted,0,10
+Carlos Santos,Conditionally Eligible,521,40783,35137,Paid,3,5
+Camila Torres,Not Eligible for Loan,445,85236,16981,Defaulted,0,6
+Miguel Gomez,Eligible for Loan,700,102320,23517,Paid,4,10
+Miguel Santos,Not Eligible for Loan,678,111249,6653,Defaulted,2,8
+Carlos Garcia,Eligible for Loan,735,74973,7407,Paid,1,1
+Carlos Torres,Eligible for Loan,749,92907,34097,Paid,2,1
+Maria Gomez,Not Eligible for Loan,488,41649,36123,Paid,3,5
+Luis Martinez,Conditionally Eligible,664,95281,12717,Paid,5,5
+Carlos Reyes,Not Eligible for Loan,507,93835,17034,Defaulted,3,4
+Jose Santos,Not Eligible for Loan,358,91368,26524,Paid,1,6
+Camila Dela Cruz,Eligible for Loan,800,96983,45135,Paid,2,2
+Jose Garcia,Not Eligible for Loan,445,81979,13839,Paid,4,3
+Maria Santos,Conditionally Eligible,673,81414,38961,Paid,2,7
+Maria Flores,Eligible for Loan,846,108325,7021,Paid,1,4
+Jose Lopez,Not Eligible for Loan,302,55265,18796,Defaulted,5,10
+Carlos Reyes,Not Eligible for Loan,784,80464,7870,Defaulted,2,6
+Anna Dela Cruz,Not Eligible for Loan,453,83218,41462,Defaulted,4,9
+Miguel Reyes,Eligible for Loan,794,83189,30029,Paid,0,6
+Carlos Torres,Not Eligible for Loan,484,117780,11424,Paid,2,8
+Luis Martinez,Not Eligible for Loan,728,42988,18991,Defaulted,0,5
+Juan Lopez,Eligible for Loan,738,76765,26768,Paid,4,8
+Luis Garcia,Not Eligible for Loan,380,67844,10894,Paid,4,2
+Sophia Dela Cruz,Conditionally Eligible,548,78073,24998,Paid,3,4
+Camila Rivera,Not Eligible for Loan,458,115426,46114,Paid,4,2
+Luis Lopez,Conditionally Eligible,582,105987,39977,Paid,0,8
+Miguel Reyes,Conditionally Eligible,513,83017,15463,Paid,5,3
+Anna Flores,Not Eligible for Loan,382,36070,10090,Defaulted,4,10
+Miguel Garcia,Not Eligible for Loan,380,70486,28244,Paid,2,4
+Miguel Dela Cruz,Not Eligible for Loan,721,29756,45455,Defaulted,3,6
+Miguel Dela Cruz,Not Eligible for Loan,390,54578,36851,Defaulted,2,2
+Anna Reyes,Not Eligible for Loan,389,56888,11330,Defaulted,2,1
+Carlos Santos,Not Eligible for Loan,571,90950,10925,Defaulted,1,4
+Sophia Reyes,Conditionally Eligible,544,93058,32708,Paid,0,9
+Miguel Dela Cruz,Not Eligible for Loan,466,45490,38797,Defaulted,1,6
+Luis Rivera,Not Eligible for Loan,376,57972,18058,Defaulted,3,6
+Carlos Torres,Eligible for Loan,801,65402,23162,Paid,2,2
+Camila Dela Cruz,Not Eligible for Loan,445,64115,32821,Defaulted,1,3
+Carlos Lopez,Not Eligible for Loan,395,119504,29743,Defaulted,1,10
+Sophia Flores,Not Eligible for Loan,651,34971,12921,Defaulted,1,1
+Anna Torres,Not Eligible for Loan,464,83482,27771,Paid,0,6
+Carlos Rivera,Not Eligible for Loan,692,114491,40218,Defaulted,4,4
+Jose Santos,Not Eligible for Loan,634,51834,38818,Defaulted,1,10
+Juan Santos,Conditionally Eligible,639,37776,21871,Paid,3,9
+Camila Reyes,Not Eligible for Loan,360,112905,25694,Paid,1,4
+Juan Dela Cruz,Not Eligible for Loan,321,28897,22192,Defaulted,2,1
+Juan Flores,Not Eligible for Loan,510,22345,34407,Defaulted,5,9
+Juan Garcia,Not Eligible for Loan,602,78017,11107,Defaulted,1,4
+Isabella Dela Cruz,Eligible for Loan,743,76252,40233,Paid,4,1
+Camila Lopez,Not Eligible for Loan,333,73827,49660,Paid,2,9
+Maria Gomez,Eligible for Loan,742,88764,25350,Paid,4,5
+Jose Martinez,Not Eligible for Loan,345,115993,22323,Paid,3,2
+Camila Torres,Conditionally Eligible,768,38097,33540,Paid,4,9
+Sophia Gomez,Conditionally Eligible,830,40950,6877,Paid,4,5
+Sophia Rivera,Not Eligible for Loan,813,96346,28694,Defaulted,4,7
+Maria Flores,Not Eligible for Loan,399,70731,39339,Paid,5,2
+Sophia Dela Cruz,Eligible for Loan,707,54852,38070,Paid,3,1
+Anna Reyes,Not Eligible for Loan,631,117783,29014,Defaulted,1,9
+Jose Gomez,Not Eligible for Loan,425,119592,34511,Defaulted,4,3
+Miguel Rivera,Not Eligible for Loan,447,99935,6004,Paid,5,8
+Camila Rivera,Not Eligible for Loan,654,23813,43593,Defaulted,0,10
+Juan Gomez,Not Eligible for Loan,665,22387,43458,Defaulted,1,7
+Miguel Flores,Conditionally Eligible,629,90827,25457,Paid,3,7
+Camila Reyes,Not Eligible for Loan,384,21802,10051,Defaulted,5,1
+Carlos Rivera,Conditionally Eligible,654,46917,39451,Paid,0,7
+Luis Garcia,Eligible for Loan,744,89503,11402,Paid,0,6
+Luis Lopez,Eligible for Loan,822,79072,17231,Paid,4,3
+Camila Lopez,Not Eligible for Loan,812,29836,21225,Defaulted,2,1
+Jose Flores,Not Eligible for Loan,512,60979,9359,Defaulted,5,10
+Luis Santos,Not Eligible for Loan,425,97620,41414,Defaulted,0,10
+Luis Rivera,Not Eligible for Loan,361,83748,22608,Paid,4,5
+Anna Dela Cruz,Not Eligible for Loan,717,79575,45051,Defaulted,3,5
+Sophia Martinez,Not Eligible for Loan,304,35964,23633,Paid,2,2
+Juan Garcia,Not Eligible for Loan,533,70409,45610,Defaulted,3,10
+Carlos Gomez,Not Eligible for Loan,564,51979,36132,Defaulted,2,10
+Sophia Reyes,Not Eligible for Loan,580,90423,14044,Defaulted,1,4
+Juan Dela Cruz,Not Eligible for Loan,328,65710,21450,Defaulted,3,3
+Luis Rivera,Conditionally Eligible,706,45105,5680,Paid,3,7
+Anna Garcia,Not Eligible for Loan,812,112970,26496,Defaulted,1,10
+Anna Lopez,Eligible for Loan,844,61691,42222,Paid,1,3
+Luis Flores,Conditionally Eligible,507,58636,48386,Paid,4,3
+Luis Rivera,Not Eligible for Loan,470,89827,21266,Paid,4,3
+Juan Gomez,Eligible for Loan,843,81784,13005,Paid,4,3
+Carlos Flores,Conditionally Eligible,625,31834,37771,Paid,4,3
+Luis Dela Cruz,Not Eligible for Loan,542,81315,37228,Defaulted,0,4
+Anna Garcia,Not Eligible for Loan,314,60936,48135,Defaulted,3,2
+Miguel Reyes,Conditionally Eligible,814,34888,30699,Paid,4,4
+Maria Rivera,Not Eligible for Loan,309,112075,33557,Defaulted,1,8
+Anna Garcia,Not Eligible for Loan,533,108895,43811,Defaulted,3,1
+Luis Dela Cruz,Not Eligible for Loan,404,85060,28998,Defaulted,4,10
+Camila Reyes,Conditionally Eligible,524,36551,31960,Paid,1,5
+Miguel Lopez,Not Eligible for Loan,449,56564,34446,Defaulted,0,7
+Carlos Rivera,Not Eligible for Loan,727,94368,25025,Defaulted,3,4
+Camila Martinez,Not Eligible for Loan,412,90005,12976,Paid,1,3
+Jose Garcia,Not Eligible for Loan,400,107826,34228,Defaulted,3,9
+Maria Martinez,Eligible for Loan,744,71515,41423,Paid,4,4
+Maria Flores,Not Eligible for Loan,310,100737,11280,Paid,4,1
+Miguel Martinez,Not Eligible for Loan,406,56757,38050,Defaulted,0,4
+Luis Dela Cruz,Not Eligible for Loan,512,63714,26179,Defaulted,3,9
+Anna Torres,Not Eligible for Loan,487,93340,19328,Defaulted,2,5
+Jose Reyes,Not Eligible for Loan,432,113894,17244,Defaulted,3,9
+Maria Lopez,Not Eligible for Loan,402,28860,27015,Paid,4,8
+Sophia Torres,Not Eligible for Loan,766,32085,7645,Defaulted,3,9
+Carlos Rivera,Eligible for Loan,708,58184,38165,Paid,0,5
+Miguel Lopez,Not Eligible for Loan,418,59129,47208,Defaulted,3,7
+Jose Reyes,Not Eligible for Loan,315,92078,13602,Paid,4,5
+Jose Rivera,Not Eligible for Loan,409,106224,44212,Paid,1,10
+Isabella Lopez,Eligible for Loan,708,112087,17727,Paid,5,4
+Juan Gomez,Not Eligible for Loan,677,106271,35756,Defaulted,0,7
+Carlos Flores,Not Eligible for Loan,427,118204,18838,Defaulted,5,1
+Juan Lopez,Not Eligible for Loan,337,81446,36262,Defaulted,0,5
+Maria Garcia,Not Eligible for Loan,463,105658,6906,Defaulted,3,7
+Jose Flores,Not Eligible for Loan,760,68762,21573,Defaulted,1,2
+Miguel Torres,Conditionally Eligible,570,103808,40425,Paid,0,7
+Miguel Dela Cruz,Not Eligible for Loan,332,24522,27418,Defaulted,3,6
+Camila Gomez,Not Eligible for Loan,618,33194,17326,Defaulted,0,3
+Juan Torres,Conditionally Eligible,579,63781,36480,Paid,3,3
+Anna Flores,Conditionally Eligible,645,57523,36411,Paid,4,9
+Juan Santos,Not Eligible for Loan,489,71380,17986,Paid,3,5
+Juan Lopez,Conditionally Eligible,555,107869,45676,Paid,4,3
+Anna Torres,Eligible for Loan,725,117737,37834,Paid,4,6
+Camila Dela Cruz,Not Eligible for Loan,433,78446,49828,Defaulted,5,7
+Miguel Flores,Not Eligible for Loan,770,65040,44042,Defaulted,3,1
+Camila Martinez,Conditionally Eligible,706,36248,9731,Paid,1,5
+Juan Lopez,Not Eligible for Loan,776,41062,16657,Defaulted,2,3
+Anna Rivera,Not Eligible for Loan,624,61156,19983,Defaulted,2,8
+Camila Dela Cruz,Eligible for Loan,717,65658,33245,Paid,5,5
+Luis Santos,Not Eligible for Loan,370,40677,6238,Defaulted,3,4
+Miguel Rivera,Conditionally Eligible,758,28854,21455,Paid,0,5
+Sophia Martinez,Not Eligible for Loan,372,36010,39624,Defaulted,1,2
+Camila Rivera,Conditionally Eligible,815,33326,36993,Paid,5,3
+Juan Lopez,Not Eligible for Loan,546,116350,44481,Defaulted,0,4
+Maria Martinez,Not Eligible for Loan,420,72597,15331,Paid,1,10
+Camila Flores,Not Eligible for Loan,809,66366,33464,Defaulted,1,2
+Jose Dela Cruz,Not Eligible for Loan,428,77561,28212,Paid,2,3
+Jose Garcia,Not Eligible for Loan,590,38798,38199,Defaulted,0,2
+Carlos Torres,Not Eligible for Loan,416,102978,12997,Defaulted,2,8
+Sophia Gomez,Not Eligible for Loan,568,61896,18036,Defaulted,3,5
+Maria Garcia,Not Eligible for Loan,385,76673,16405,Paid,2,8
+Carlos Martinez,Not Eligible for Loan,662,46969,5773,Defaulted,5,4
+Camila Reyes,Eligible for Loan,754,117039,23744,Paid,4,10
+Luis Rivera,Conditionally Eligible,571,21834,40781,Paid,3,10
+Luis Reyes,Not Eligible for Loan,401,118907,43814,Paid,2,8
+Camila Martinez,Conditionally Eligible,538,59417,19159,Paid,4,8
+Luis Dela Cruz,Not Eligible for Loan,479,109577,38249,Defaulted,4,6
+Juan Flores,Conditionally Eligible,570,64015,33271,Paid,5,9
+Sophia Flores,Not Eligible for Loan,850,66089,22665,Defaulted,4,9
+Anna Garcia,Not Eligible for Loan,847,45564,35472,Defaulted,4,1
+Camila Reyes,Conditionally Eligible,767,31974,33409,Paid,0,5
+Carlos Torres,Eligible for Loan,758,92849,35388,Paid,0,10
+Juan Martinez,Not Eligible for Loan,534,118119,15267,Defaulted,5,9
+Camila Reyes,Not Eligible for Loan,662,28947,28745,Defaulted,1,5
+Camila Santos,Not Eligible for Loan,351,45535,28784,Defaulted,1,9
+Carlos Santos,Conditionally Eligible,588,81135,24183,Paid,3,9
+Juan Dela Cruz,Not Eligible for Loan,302,98320,21535,Paid,2,7
+Camila Garcia,Not Eligible for Loan,669,69894,36753,Defaulted,3,5
+Miguel Rivera,Not Eligible for Loan,492,35695,33504,Paid,0,6
+Luis Garcia,Not Eligible for Loan,510,91722,41899,Defaulted,2,1
+Miguel Rivera,Not Eligible for Loan,407,23624,12649,Paid,2,6
+Juan Lopez,Not Eligible for Loan,696,67225,41998,Defaulted,3,9
+Sophia Rivera,Not Eligible for Loan,468,115081,38800,Paid,0,3
+Jose Rivera,Conditionally Eligible,543,115846,15196,Paid,2,9
+Jose Flores,Not Eligible for Loan,414,43568,24656,Defaulted,0,2
+Carlos Gomez,Conditionally Eligible,800,29829,46257,Paid,2,7
+Miguel Reyes,Not Eligible for Loan,684,113091,18181,Defaulted,3,8
+Camila Reyes,Not Eligible for Loan,572,64834,19760,Defaulted,3,9
+Juan Garcia,Not Eligible for Loan,428,97547,30169,Defaulted,1,7
+Luis Garcia,Not Eligible for Loan,813,65443,19735,Defaulted,5,3
+Maria Garcia,Conditionally Eligible,784,29145,30818,Paid,0,10
+Luis Santos,Not Eligible for Loan,769,118282,39375,Defaulted,5,4
+Miguel Flores,Not Eligible for Loan,426,74793,38047,Defaulted,0,9
+Juan Flores,Eligible for Loan,730,82922,8454,Paid,3,2
+Camila Torres,Not Eligible for Loan,785,32379,21805,Defaulted,5,7
+Anna Torres,Not Eligible for Loan,681,20840,19877,Defaulted,5,8
+Miguel Gomez,Conditionally Eligible,592,96267,34268,Paid,0,8
+Juan Reyes,Not Eligible for Loan,565,102584,19695,Defaulted,4,9
+Jose Torres,Not Eligible for Loan,657,86887,31366,Defaulted,0,1
+Miguel Santos,Conditionally Eligible,628,64470,32438,Paid,0,2
+Maria Garcia,Not Eligible for Loan,313,46995,42352,Paid,2,9
+Sophia Lopez,Not Eligible for Loan,464,23216,37070,Defaulted,4,3
+Miguel Reyes,Not Eligible for Loan,644,103294,15205,Defaulted,2,3
+Luis Martinez,Not Eligible for Loan,375,96985,23176,Paid,1,8
+Camila Garcia,Not Eligible for Loan,706,49984,48077,Defaulted,0,2
+Maria Martinez,Conditionally Eligible,628,88988,36857,Paid,5,9
+Camila Santos,Conditionally Eligible,629,62553,19469,Paid,2,7
+Carlos Flores,Not Eligible for Loan,830,69836,18686,Defaulted,4,2
+Anna Rivera,Not Eligible for Loan,745,48117,10538,Defaulted,3,9
+Carlos Dela Cruz,Not Eligible for Loan,640,58490,12077,Defaulted,1,4
+Anna Rivera,Not Eligible for Loan,320,67279,21360,Paid,3,1
+Isabella Reyes,Not Eligible for Loan,701,101478,17854,Defaulted,5,4
+Miguel Lopez,Not Eligible for Loan,314,59950,31804,Defaulted,1,4
+Jose Reyes,Not Eligible for Loan,430,77731,44998,Paid,1,3
+Anna Torres,Not Eligible for Loan,327,80951,18924,Paid,3,2
+Luis Lopez,Not Eligible for Loan,409,71130,19037,Paid,1,9
+Maria Lopez,Conditionally Eligible,579,70375,13890,Paid,0,2
+Miguel Reyes,Not Eligible for Loan,419,71378,29996,Defaulted,1,3
+Sophia Reyes,Not Eligible for Loan,462,51031,39299,Paid,1,9
+Isabella Garcia,Conditionally Eligible,640,66341,49783,Paid,4,5
+Anna Torres,Not Eligible for Loan,346,68945,34804,Paid,0,8
+Maria Dela Cruz,Not Eligible for Loan,417,23318,15175,Paid,4,10
+Anna Martinez,Not Eligible for Loan,669,118771,23408,Defaulted,1,9
+Isabella Flores,Conditionally Eligible,765,47238,16839,Paid,2,3
+Jose Torres,Not Eligible for Loan,787,67405,5903,Defaulted,4,4
+Maria Lopez,Not Eligible for Loan,461,59584,5881,Paid,2,8
+Jose Gomez,Eligible for Loan,849,116699,8872,Paid,1,7
+Carlos Dela Cruz,Conditionally Eligible,834,21130,32303,Paid,3,10
+Jose Santos,Not Eligible for Loan,837,79890,16333,Defaulted,3,5
+Anna Martinez,Conditionally Eligible,513,75472,7745,Paid,5,9
+Camila Garcia,Not Eligible for Loan,375,48117,18108,Paid,2,6
+Camila Garcia,Conditionally Eligible,581,91121,12556,Paid,1,1
+Luis Santos,Not Eligible for Loan,758,27857,7896,Defaulted,5,2
+Juan Lopez,Not Eligible for Loan,609,115224,35258,Defaulted,4,7
+Maria Lopez,Not Eligible for Loan,718,116486,27330,Defaulted,0,10
+Camila Santos,Not Eligible for Loan,406,79000,16206,Paid,3,9
+Sophia Rivera,Not Eligible for Loan,445,43684,12631,Defaulted,3,3
+Anna Lopez,Not Eligible for Loan,523,38323,44626,Defaulted,0,10
+Jose Reyes,Conditionally Eligible,535,48752,24046,Paid,5,5
+Carlos Torres,Not Eligible for Loan,401,103349,12867,Defaulted,5,4
+Anna Garcia,Not Eligible for Loan,830,73490,27955,Defaulted,0,7
+Luis Martinez,Conditionally Eligible,569,81664,14277,Paid,2,8
+Luis Lopez,Not Eligible for Loan,707,36773,11100,Defaulted,1,1
+Carlos Rivera,Eligible for Loan,810,117292,14245,Paid,4,5
+Camila Santos,Not Eligible for Loan,368,58213,35523,Paid,0,1
+Camila Reyes,Conditionally Eligible,756,28910,19817,Paid,3,4
+Luis Garcia,Not Eligible for Loan,657,109538,8121,Defaulted,2,10
+Jose Lopez,Conditionally Eligible,643,60895,22183,Paid,0,3
+Luis Lopez,Conditionally Eligible,516,62591,22961,Paid,4,10
+Camila Torres,Conditionally Eligible,552,47390,13855,Paid,2,7
+Luis Santos,Not Eligible for Loan,340,21593,33884,Paid,3,7
+Anna Flores,Conditionally Eligible,647,50814,12757,Paid,3,1
+Anna Martinez,Not Eligible for Loan,562,32348,49201,Defaulted,3,3
+Miguel Gomez,Not Eligible for Loan,306,34706,25075,Paid,0,6
+Jose Garcia,Not Eligible for Loan,451,79143,20747,Paid,1,2
+Sophia Santos,Not Eligible for Loan,300,105854,40026,Defaulted,5,6
+Anna Santos,Not Eligible for Loan,614,46065,16167,Defaulted,0,5
+Miguel Santos,Conditionally Eligible,516,55569,29985,Paid,2,5
+Camila Garcia,Not Eligible for Loan,308,112781,6080,Defaulted,0,3
+Juan Garcia,Not Eligible for Loan,319,64572,46273,Defaulted,5,1
+Camila Lopez,Not Eligible for Loan,850,98315,20808,Defaulted,0,8
+Sophia Rivera,Not Eligible for Loan,765,23650,40024,Defaulted,4,1
+Isabella Torres,Not Eligible for Loan,563,112131,42382,Defaulted,4,10
+Maria Flores,Not Eligible for Loan,653,58787,21637,Defaulted,2,10
+Jose Flores,Not Eligible for Loan,513,79076,34979,Defaulted,1,3
+Sophia Lopez,Eligible for Loan,796,78764,31912,Paid,1,9
+Juan Martinez,Not Eligible for Loan,724,99395,23850,Defaulted,5,5
+Carlos Garcia,Conditionally Eligible,664,75533,35766,Paid,2,3
+Isabella Reyes,Eligible for Loan,825,84282,39458,Paid,3,4
+Sophia Torres,Eligible for Loan,730,75251,7132,Paid,2,8
+Camila Torres,Eligible for Loan,823,54644,14895,Paid,0,10
+Miguel Lopez,Not Eligible for Loan,403,100468,46471,Defaulted,5,7
+Miguel Lopez,Not Eligible for Loan,463,34208,44304,Paid,1,10
+Jose Torres,Not Eligible for Loan,463,44280,27463,Paid,1,1
+Maria Torres,Not Eligible for Loan,504,68360,44574,Defaulted,3,1
+Carlos Torres,Not Eligible for Loan,369,72705,8725,Paid,5,4
+Anna Martinez,Not Eligible for Loan,580,87684,41528,Defaulted,0,10
+Miguel Garcia,Not Eligible for Loan,845,72286,47142,Defaulted,0,8
+Juan Flores,Not Eligible for Loan,313,46674,27179,Defaulted,1,2
+Carlos Martinez,Not Eligible for Loan,624,47163,22309,Defaulted,1,7
+Maria Torres,Not Eligible for Loan,423,49199,32959,Paid,4,7
+Camila Lopez,Not Eligible for Loan,437,67831,31164,Paid,5,8
+Luis Reyes,Not Eligible for Loan,812,94455,41140,Defaulted,4,6
+Isabella Rivera,Not Eligible for Loan,452,71257,35955,Paid,1,6
+Miguel Reyes,Conditionally Eligible,593,78669,7585,Paid,4,5
+Camila Flores,Not Eligible for Loan,466,111931,37048,Defaulted,3,10
+Luis Rivera,Not Eligible for Loan,799,24658,28749,Defaulted,3,2
+Isabella Dela Cruz,Eligible for Loan,808,66992,28712,Paid,1,1
+Sophia Reyes,Not Eligible for Loan,331,58598,31907,Paid,2,9
+Juan Torres,Not Eligible for Loan,517,35179,43759,Defaulted,1,2
+Camila Garcia,Not Eligible for Loan,439,21214,15480,Defaulted,2,7
+Juan Lopez,Not Eligible for Loan,798,25209,16259,Defaulted,1,7
+Sophia Santos,Not Eligible for Loan,321,50291,17197,Paid,2,7
+Jose Santos,Not Eligible for Loan,337,78155,44517,Paid,4,1
+Camila Martinez,Not Eligible for Loan,554,70407,36483,Defaulted,2,3
+Camila Santos,Conditionally Eligible,680,108313,41882,Paid,1,5
+Juan Flores,Not Eligible for Loan,360,101227,23265,Defaulted,4,4
+Jose Reyes,Eligible for Loan,726,83714,34737,Paid,5,4
+Juan Lopez,Conditionally Eligible,618,47605,20610,Paid,4,2
+Jose Garcia,Conditionally Eligible,829,37660,11901,Paid,4,8
+Anna Flores,Not Eligible for Loan,470,48691,5533,Defaulted,0,7
+Jose Garcia,Not Eligible for Loan,353,33316,31336,Paid,3,3
+Anna Flores,Not Eligible for Loan,458,34919,40225,Paid,0,9
+Isabella Gomez,Conditionally Eligible,613,55182,38565,Paid,0,10
+Juan Gomez,Not Eligible for Loan,469,107035,25401,Defaulted,0,4
+Maria Reyes,Not Eligible for Loan,638,35762,35157,Defaulted,2,1
+Sophia Lopez,Eligible for Loan,822,87104,8585,Paid,3,8
+Sophia Flores,Not Eligible for Loan,832,41256,49771,Defaulted,3,7
+Isabella Torres,Eligible for Loan,791,80000,5299,Paid,0,8
+Isabella Rivera,Not Eligible for Loan,446,28774,40375,Paid,1,1
+Anna Garcia,Conditionally Eligible,666,61985,19307,Paid,0,1
+Sophia Lopez,Not Eligible for Loan,821,84795,18680,Defaulted,2,1
+Anna Dela Cruz,Conditionally Eligible,533,112494,25123,Paid,0,6
+Luis Dela Cruz,Not Eligible for Loan,598,98546,6265,Defaulted,2,2
+Maria Rivera,Not Eligible for Loan,402,77759,26497,Defaulted,2,8
+Camila Flores,Conditionally Eligible,669,79741,28094,Paid,3,2
+Carlos Garcia,Not Eligible for Loan,424,64512,25091,Paid,3,6
+Luis Flores,Conditionally Eligible,680,81961,41382,Paid,3,5
+Carlos Flores,Conditionally Eligible,646,64645,45369,Paid,4,1
+Luis Torres,Not Eligible for Loan,365,86167,18485,Paid,4,9
+Camila Rivera,Conditionally Eligible,685,74421,48537,Paid,4,5
+Carlos Martinez,Not Eligible for Loan,396,116966,13387,Paid,1,6
+Sophia Gomez,Not Eligible for Loan,368,113696,39319,Defaulted,0,3
+Camila Garcia,Not Eligible for Loan,312,79397,32104,Paid,5,10
+Jose Martinez,Not Eligible for Loan,414,94303,6017,Paid,0,4
+Anna Flores,Eligible for Loan,796,73743,26791,Paid,1,2
+Miguel Santos,Conditionally Eligible,620,99909,17142,Paid,4,1
+Maria Torres,Eligible for Loan,741,79540,24974,Paid,2,1
+Juan Lopez,Not Eligible for Loan,314,39459,24900,Defaulted,0,3
+Jose Garcia,Conditionally Eligible,510,52555,48440,Paid,3,6
+Juan Reyes,Not Eligible for Loan,582,97331,31679,Defaulted,1,8
+Anna Reyes,Eligible for Loan,767,79864,9786,Paid,3,8
+Isabella Gomez,Not Eligible for Loan,324,74211,31667,Defaulted,3,2
+Isabella Dela Cruz,Eligible for Loan,822,82476,22051,Paid,4,8
+Maria Rivera,Not Eligible for Loan,849,22863,16400,Defaulted,4,10
+Sophia Martinez,Eligible for Loan,823,72635,24650,Paid,0,10
+Luis Lopez,Conditionally Eligible,601,33720,14915,Paid,1,6
+Isabella Torres,Not Eligible for Loan,391,104115,28895,Paid,4,6
+Isabella Santos,Not Eligible for Loan,563,70851,25706,Defaulted,0,10
+Maria Torres,Not Eligible for Loan,479,79326,23242,Paid,0,2
+Luis Gomez,Not Eligible for Loan,530,61544,20267,Defaulted,4,9
+Maria Reyes,Not Eligible for Loan,842,106925,16686,Defaulted,0,1
+Sophia Torres,Not Eligible for Loan,453,104481,21841,Paid,1,5
+Isabella Dela Cruz,Not Eligible for Loan,457,47077,6510,Defaulted,2,5
+Miguel Lopez,Eligible for Loan,831,85467,6667,Paid,1,4
+Luis Santos,Not Eligible for Loan,675,47659,37327,Defaulted,1,7
+Jose Flores,Not Eligible for Loan,353,59169,38431,Defaulted,1,9
+Maria Martinez,Conditionally Eligible,638,95984,33522,Paid,4,2
+Maria Reyes,Not Eligible for Loan,509,27051,6316,Defaulted,3,7
+Maria Dela Cruz,Not Eligible for Loan,431,57829,24374,Paid,4,1
+Camila Flores,Conditionally Eligible,685,52721,10257,Paid,1,8
+Miguel Flores,Conditionally Eligible,845,36594,42236,Paid,3,3
+Luis Lopez,Not Eligible for Loan,517,71302,38764,Defaulted,0,10
+Juan Reyes,Not Eligible for Loan,488,76805,15629,Paid,0,7
+Miguel Gomez,Not Eligible for Loan,471,20216,30399,Paid,5,6
+Miguel Garcia,Not Eligible for Loan,408,74024,36610,Defaulted,2,9
+Sophia Martinez,Eligible for Loan,821,79266,41494,Paid,4,9
+Anna Reyes,Not Eligible for Loan,534,62385,22104,Defaulted,2,9
+Isabella Torres,Conditionally Eligible,682,23323,9528,Paid,2,6
+Sophia Garcia,Conditionally Eligible,650,46180,14941,Paid,2,7
+Juan Gomez,Not Eligible for Loan,322,85679,16285,Defaulted,1,3
+Jose Martinez,Not Eligible for Loan,661,116330,27202,Defaulted,1,2
+Carlos Dela Cruz,Conditionally Eligible,652,46321,17076,Paid,4,4
+Luis Santos,Conditionally Eligible,598,84438,24226,Paid,3,8
+Luis Garcia,Not Eligible for Loan,310,30100,14766,Defaulted,2,5
+Anna Torres,Not Eligible for Loan,668,33023,22290,Defaulted,4,2
+Camila Reyes,Not Eligible for Loan,683,49470,49780,Defaulted,2,2
+Luis Torres,Not Eligible for Loan,400,105864,10294,Paid,1,7
+Jose Lopez,Not Eligible for Loan,763,74349,22741,Defaulted,0,7
+Isabella Flores,Not Eligible for Loan,464,23902,31916,Defaulted,0,4
+Sophia Rivera,Not Eligible for Loan,405,64726,20032,Paid,4,4
+Maria Garcia,Eligible for Loan,753,84472,6649,Paid,0,1
+Isabella Dela Cruz,Not Eligible for Loan,312,75215,13597,Defaulted,1,5
+Carlos Martinez,Eligible for Loan,736,55803,21787,Paid,0,5
+Jose Gomez,Not Eligible for Loan,826,67557,14556,Defaulted,5,8
+Camila Dela Cruz,Not Eligible for Loan,507,91009,45517,Defaulted,4,10
+Camila Rivera,Not Eligible for Loan,433,65685,49407,Defaulted,3,6
+Camila Gomez,Not Eligible for Loan,650,106134,43536,Defaulted,2,1
+Anna Lopez,Not Eligible for Loan,415,26580,45845,Defaulted,4,10
+Isabella Lopez,Conditionally Eligible,584,83910,19662,Paid,4,3
+Anna Dela Cruz,Not Eligible for Loan,570,43759,40946,Defaulted,3,10
+Carlos Martinez,Conditionally Eligible,683,101835,32482,Paid,3,9
+Sophia Lopez,Conditionally Eligible,624,99244,26499,Paid,2,6
+Camila Gomez,Not Eligible for Loan,820,79326,43233,Defaulted,1,8
+Jose Rivera,Eligible for Loan,759,79561,6241,Paid,1,10
+Carlos Torres,Conditionally Eligible,646,95307,28130,Paid,2,6
+Maria Martinez,Not Eligible for Loan,811,109182,36831,Defaulted,4,2
+Jose Lopez,Not Eligible for Loan,673,33710,25717,Defaulted,5,10
+Sophia Martinez,Eligible for Loan,778,89245,11196,Paid,4,3
+Miguel Dela Cruz,Conditionally Eligible,748,34534,11541,Paid,5,2
+Luis Martinez,Not Eligible for Loan,785,68972,16046,Defaulted,0,8
+Juan Torres,Not Eligible for Loan,578,59624,47160,Defaulted,3,10
+Luis Lopez,Eligible for Loan,836,92256,18818,Paid,4,3
+Luis Flores,Eligible for Loan,769,107201,48398,Paid,2,7
+Camila Torres,Not Eligible for Loan,729,67872,12157,Defaulted,5,8
+Luis Rivera,Not Eligible for Loan,791,68713,32601,Defaulted,3,10
+Maria Dela Cruz,Not Eligible for Loan,373,71157,36837,Paid,0,3
+Maria Gomez,Not Eligible for Loan,330,109917,43994,Defaulted,3,5
+Isabella Dela Cruz,Not Eligible for Loan,586,82783,30323,Defaulted,1,5
+Isabella Gomez,Conditionally Eligible,568,80568,19094,Paid,1,3
+Carlos Lopez,Not Eligible for Loan,786,37475,8940,Defaulted,4,2
+Miguel Lopez,Conditionally Eligible,598,76038,25741,Paid,3,8
+Sophia Flores,Not Eligible for Loan,706,75538,45521,Defaulted,2,2
+Juan Santos,Not Eligible for Loan,703,32455,48169,Defaulted,1,10
+Miguel Lopez,Conditionally Eligible,573,26295,11449,Paid,0,8
+Isabella Martinez,Not Eligible for Loan,475,82329,41868,Defaulted,5,9
+Juan Garcia,Not Eligible for Loan,473,52083,25952,Defaulted,4,7
+Juan Dela Cruz,Not Eligible for Loan,342,65844,11779,Defaulted,0,3
+Luis Lopez,Not Eligible for Loan,467,101123,8667,Paid,5,4
+Carlos Dela Cruz,Eligible for Loan,847,62707,14247,Paid,2,6
+Luis Rivera,Conditionally Eligible,832,31629,30538,Paid,4,3
+Juan Rivera,Not Eligible for Loan,650,82040,22922,Defaulted,5,10
+Carlos Martinez,Not Eligible for Loan,325,64272,15965,Paid,2,10
+Jose Martinez,Not Eligible for Loan,571,111340,11986,Defaulted,3,10
+Carlos Lopez,Conditionally Eligible,819,36671,40416,Paid,2,2
+Camila Rivera,Not Eligible for Loan,613,57126,32508,Defaulted,5,9
+Isabella Santos,Not Eligible for Loan,406,74679,16126,Paid,2,9
+Luis Flores,Not Eligible for Loan,333,54667,26425,Paid,4,9
+Camila Torres,Not Eligible for Loan,374,57190,15221,Defaulted,3,5
+Isabella Lopez,Not Eligible for Loan,345,71366,28091,Defaulted,4,4
+Sophia Garcia,Not Eligible for Loan,758,109663,22466,Defaulted,0,7
+Anna Dela Cruz,Conditionally Eligible,758,21915,16803,Paid,1,9
+Miguel Garcia,Conditionally Eligible,765,30621,22904,Paid,4,4
+Isabella Torres,Not Eligible for Loan,503,114359,37679,Defaulted,1,10
+Jose Dela Cruz,Conditionally Eligible,632,51251,20380,Paid,5,8
+Luis Garcia,Not Eligible for Loan,380,27935,39047,Defaulted,4,7
+Maria Rivera,Not Eligible for Loan,625,90114,9338,Defaulted,0,7
+Miguel Gomez,Not Eligible for Loan,443,84015,33942,Paid,1,8
+Luis Lopez,Not Eligible for Loan,710,48323,30681,Defaulted,1,1
+Maria Lopez,Eligible for Loan,710,85342,21565,Paid,0,2
+Miguel Martinez,Not Eligible for Loan,309,43069,40246,Defaulted,4,7
+Juan Gomez,Not Eligible for Loan,306,103685,35031,Defaulted,2,10
+Sophia Flores,Not Eligible for Loan,724,103313,42011,Defaulted,4,10
+Anna Santos,Not Eligible for Loan,579,90009,34463,Defaulted,2,1
+Maria Dela Cruz,Conditionally Eligible,548,102230,11936,Paid,3,3
+Carlos Lopez,Eligible for Loan,738,71013,20137,Paid,2,5
+Miguel Flores,Not Eligible for Loan,503,64311,44791,Defaulted,5,1
+Juan Dela Cruz,Not Eligible for Loan,662,88512,35369,Defaulted,4,5
+Sophia Santos,Conditionally Eligible,652,25801,37105,Paid,1,5
+Juan Lopez,Eligible for Loan,796,84048,43461,Paid,0,7
+Miguel Torres,Conditionally Eligible,583,113562,9848,Paid,3,4
+Carlos Rivera,Eligible for Loan,844,65669,21972,Paid,1,10
+Maria Torres,Not Eligible for Loan,456,88673,19126,Paid,2,10
+Anna Garcia,Conditionally Eligible,590,70848,20373,Paid,2,7
+Camila Rivera,Not Eligible for Loan,746,56766,20988,Defaulted,2,8
+Camila Flores,Conditionally Eligible,652,85405,47023,Paid,4,3
+Juan Garcia,Not Eligible for Loan,340,113555,40801,Defaulted,3,8
+Sophia Reyes,Not Eligible for Loan,735,119173,7317,Defaulted,2,6
+Camila Garcia,Not Eligible for Loan,509,60358,20058,Defaulted,3,9
+Jose Gomez,Not Eligible for Loan,514,66513,48724,Defaulted,4,2
+Luis Santos,Not Eligible for Loan,806,46562,33375,Defaulted,5,2
+Miguel Martinez,Not Eligible for Loan,519,68580,48925,Defaulted,3,8
+Luis Rivera,Not Eligible for Loan,414,80552,7185,Defaulted,1,4
+Isabella Reyes,Not Eligible for Loan,302,75823,23351,Paid,3,8
+Luis Dela Cruz,Conditionally Eligible,575,61634,24786,Paid,1,3
+Camila Torres,Conditionally Eligible,820,34190,47561,Paid,4,4
+Carlos Garcia,Conditionally Eligible,789,38182,49590,Paid,1,6
+Jose Garcia,Eligible for Loan,771,117710,5339,Paid,2,5
+Luis Gomez,Not Eligible for Loan,381,68470,34713,Paid,1,6
+Carlos Torres,Conditionally Eligible,504,46968,11262,Paid,2,4
+Isabella Rivera,Not Eligible for Loan,458,61815,11903,Defaulted,4,5
+Maria Gomez,Conditionally Eligible,650,103752,8459,Paid,4,9
+Miguel Gomez,Conditionally Eligible,698,65267,26961,Paid,1,6
+Camila Flores,Not Eligible for Loan,358,112086,34979,Defaulted,1,1
+Maria Reyes,Conditionally Eligible,607,41436,16539,Paid,5,2
+Isabella Martinez,Not Eligible for Loan,533,38807,15264,Defaulted,2,7
+Luis Flores,Eligible for Loan,780,62910,15716,Paid,2,1
+Isabella Lopez,Conditionally Eligible,805,25716,34685,Paid,4,5
+Sophia Reyes,Eligible for Loan,843,75127,36195,Paid,3,8
+Jose Gomez,Conditionally Eligible,602,26567,41782,Paid,5,9
+Isabella Garcia,Not Eligible for Loan,537,23917,32045,Defaulted,3,8
+Luis Lopez,Eligible for Loan,836,88024,9108,Paid,4,2
+Luis Lopez,Not Eligible for Loan,327,72356,45666,Paid,5,1
+Sophia Lopez,Eligible for Loan,773,76351,26104,Paid,5,10
+Luis Garcia,Not Eligible for Loan,328,49501,32390,Defaulted,0,4
+Luis Dela Cruz,Not Eligible for Loan,433,81094,49277,Paid,0,9
+Miguel Martinez,Not Eligible for Loan,721,70693,28767,Defaulted,2,7
+Isabella Torres,Not Eligible for Loan,392,72287,13811,Defaulted,0,5
+Carlos Garcia,Not Eligible for Loan,399,56598,27960,Defaulted,5,6
+Miguel Lopez,Not Eligible for Loan,752,97217,31025,Defaulted,0,5
+Maria Garcia,Conditionally Eligible,726,26762,22291,Paid,5,9
+Sophia Lopez,Not Eligible for Loan,812,22225,42899,Defaulted,3,7
+Maria Garcia,Conditionally Eligible,668,51164,42055,Paid,5,8
+Miguel Reyes,Conditionally Eligible,577,31148,21789,Paid,4,1
+Isabella Gomez,Not Eligible for Loan,476,56380,32161,Defaulted,3,1
+Camila Gomez,Not Eligible for Loan,426,117856,39839,Paid,0,1
+Anna Rivera,Conditionally Eligible,566,100793,10635,Paid,2,1
+Miguel Flores,Conditionally Eligible,692,81193,11177,Paid,3,4
+Maria Santos,Not Eligible for Loan,478,51650,10205,Paid,1,2
+Isabella Rivera,Not Eligible for Loan,541,32414,49329,Defaulted,2,4
+Anna Rivera,Not Eligible for Loan,351,86466,14160,Paid,0,6
+Carlos Flores,Eligible for Loan,779,71480,49136,Paid,4,10
+Luis Torres,Not Eligible for Loan,469,72639,39569,Defaulted,0,8
+Juan Dela Cruz,Not Eligible for Loan,686,105924,13640,Defaulted,1,9
+Sophia Martinez,Not Eligible for Loan,500,81008,21034,Defaulted,0,2
+Miguel Dela Cruz,Not Eligible for Loan,709,118449,45623,Defaulted,0,3
+Luis Dela Cruz,Not Eligible for Loan,737,48082,21213,Defaulted,2,6
+Maria Reyes,Conditionally Eligible,662,78347,27102,Paid,5,6
+Isabella Lopez,Not Eligible for Loan,765,75202,8006,Defaulted,4,2
+Isabella Gomez,Not Eligible for Loan,640,20143,17591,Defaulted,3,10
+Sophia Garcia,Eligible for Loan,848,119939,34942,Paid,0,3
+Carlos Gomez,Not Eligible for Loan,604,44321,28261,Defaulted,2,7
+Luis Reyes,Not Eligible for Loan,311,103004,14632,Defaulted,5,1
+Miguel Martinez,Not Eligible for Loan,516,86032,7843,Defaulted,2,7
+Sophia Rivera,Not Eligible for Loan,597,23131,18952,Defaulted,1,6
+Carlos Torres,Not Eligible for Loan,360,105969,31941,Defaulted,2,6
+Luis Rivera,Conditionally Eligible,574,41086,37544,Paid,1,8
+Maria Gomez,Conditionally Eligible,544,91060,14908,Paid,0,6
+Maria Garcia,Not Eligible for Loan,456,52929,38250,Paid,0,7
+Luis Garcia,Not Eligible for Loan,314,87645,33966,Paid,4,8
+Anna Flores,Not Eligible for Loan,448,98292,27176,Defaulted,3,4
+Anna Torres,Conditionally Eligible,824,36398,30070,Paid,3,3
+Camila Gomez,Conditionally Eligible,597,39840,27547,Paid,2,8
+Camila Gomez,Conditionally Eligible,752,26075,46093,Paid,5,2
+Jose Santos,Conditionally Eligible,547,58737,40186,Paid,2,10
+Jose Gomez,Conditionally Eligible,684,52992,14397,Paid,3,8
+Carlos Rivera,Not Eligible for Loan,778,85577,25407,Defaulted,2,8
+Sophia Santos,Conditionally Eligible,820,43862,27535,Paid,3,9
+Juan Reyes,Not Eligible for Loan,815,85247,35378,Defaulted,3,2
+Sophia Martinez,Not Eligible for Loan,404,63836,37700,Paid,0,7
+Juan Lopez,Eligible for Loan,727,75628,13606,Paid,3,8
+Jose Gomez,Not Eligible for Loan,569,34015,26013,Defaulted,1,10
+Isabella Reyes,Eligible for Loan,728,88341,9467,Paid,4,6
+Miguel Torres,Not Eligible for Loan,538,77348,45245,Defaulted,0,5
+Sophia Reyes,Conditionally Eligible,665,99548,37317,Paid,5,9
+Maria Lopez,Conditionally Eligible,532,79174,12585,Paid,1,3
+Miguel Flores,Conditionally Eligible,600,68344,7499,Paid,2,3
+Isabella Martinez,Not Eligible for Loan,506,25490,20164,Defaulted,2,10
+Camila Torres,Not Eligible for Loan,724,69208,43835,Defaulted,4,10
+Sophia Gomez,Not Eligible for Loan,372,24070,29153,Defaulted,3,8
+Anna Dela Cruz,Not Eligible for Loan,840,101461,42887,Defaulted,4,10
+Maria Reyes,Not Eligible for Loan,355,111126,48997,Defaulted,2,10
+Carlos Rivera,Not Eligible for Loan,706,37825,35626,Defaulted,0,1
+Anna Rivera,Not Eligible for Loan,476,45850,9288,Paid,1,6
+Jose Rivera,Not Eligible for Loan,420,105319,17855,Paid,2,8
+Miguel Santos,Not Eligible for Loan,506,119329,31875,Defaulted,1,5
+Isabella Garcia,Not Eligible for Loan,586,72053,21900,Defaulted,4,10
+Sophia Dela Cruz,Eligible for Loan,700,97962,31896,Paid,5,8
+Anna Gomez,Eligible for Loan,709,102908,20497,Paid,5,5
+Luis Santos,Not Eligible for Loan,480,54682,5693,Paid,5,7
+Sophia Santos,Not Eligible for Loan,793,39799,38459,Defaulted,1,1
+Camila Reyes,Not Eligible for Loan,642,60510,27183,Defaulted,1,2
+Camila Garcia,Eligible for Loan,757,88954,5085,Paid,1,9
+Luis Gomez,Not Eligible for Loan,610,64734,9940,Defaulted,3,8
+Camila Martinez,Not Eligible for Loan,498,29925,47337,Defaulted,4,4
+Isabella Lopez,Eligible for Loan,765,81622,22433,Paid,1,6
+Isabella Lopez,Conditionally Eligible,698,86856,22008,Paid,4,1
+Carlos Garcia,Not Eligible for Loan,391,110415,19525,Paid,2,10
+Anna Santos,Conditionally Eligible,697,68921,12021,Paid,4,4
+Jose Gomez,Not Eligible for Loan,303,75729,36620,Paid,2,8
+Jose Dela Cruz,Not Eligible for Loan,308,96925,49398,Paid,3,6
+Anna Dela Cruz,Not Eligible for Loan,588,84957,6843,Defaulted,3,3
+Isabella Torres,Not Eligible for Loan,594,40805,46606,Defaulted,5,7
+Camila Lopez,Not Eligible for Loan,416,86104,34897,Paid,3,10
+Anna Dela Cruz,Not Eligible for Loan,812,70528,24429,Defaulted,4,5
+Jose Gomez,Not Eligible for Loan,494,85921,37042,Paid,2,7
+Camila Torres,Not Eligible for Loan,492,114564,29696,Paid,2,8
+Anna Torres,Not Eligible for Loan,547,91811,10569,Defaulted,5,8
+Maria Flores,Not Eligible for Loan,600,26893,48000,Defaulted,1,4
+Anna Garcia,Not Eligible for Loan,417,96115,24774,Paid,2,7
+Luis Martinez,Not Eligible for Loan,508,97331,9761,Defaulted,5,1
+Isabella Gomez,Not Eligible for Loan,626,103016,30143,Defaulted,1,4
+Miguel Flores,Eligible for Loan,743,54846,17258,Paid,3,5
+Camila Gomez,Not Eligible for Loan,450,74538,31648,Paid,2,5
+Juan Flores,Conditionally Eligible,584,41102,15131,Paid,1,7
+Maria Martinez,Not Eligible for Loan,588,50726,38746,Defaulted,5,10
+Maria Martinez,Not Eligible for Loan,658,105257,29879,Defaulted,2,10
+Juan Flores,Conditionally Eligible,594,23621,18681,Paid,0,1
+Miguel Reyes,Eligible for Loan,838,112104,19023,Paid,4,2
+Sophia Torres,Eligible for Loan,818,117185,26127,Paid,2,3
+Jose Martinez,Eligible for Loan,813,102571,20256,Paid,0,4
+Jose Martinez,Not Eligible for Loan,388,48690,25821,Paid,4,7
+Isabella Lopez,Not Eligible for Loan,752,113328,43293,Defaulted,3,6
+Carlos Garcia,Conditionally Eligible,510,99662,19986,Paid,3,3
+Jose Martinez,Conditionally Eligible,616,26355,22948,Paid,1,8
+Maria Torres,Not Eligible for Loan,480,69791,38587,Defaulted,5,2
+Maria Santos,Not Eligible for Loan,325,96628,24014,Defaulted,0,7
+Miguel Lopez,Eligible for Loan,802,83708,37459,Paid,5,2
+Maria Rivera,Not Eligible for Loan,711,108401,23740,Defaulted,0,3
+Luis Rivera,Conditionally Eligible,584,38223,24439,Paid,5,6
+Miguel Rivera,Not Eligible for Loan,303,106958,48237,Paid,2,10
+Luis Flores,Not Eligible for Loan,669,50993,44435,Defaulted,0,7
+Luis Dela Cruz,Not Eligible for Loan,565,27815,11235,Defaulted,3,1
+Miguel Reyes,Conditionally Eligible,510,76189,46125,Paid,4,6
+Miguel Lopez,Not Eligible for Loan,404,29429,8384,Paid,5,3
+Jose Flores,Not Eligible for Loan,443,112591,23971,Paid,5,4
+Luis Flores,Not Eligible for Loan,347,61333,18152,Paid,4,7
+Maria Lopez,Not Eligible for Loan,789,44801,16750,Defaulted,3,8
+Camila Garcia,Not Eligible for Loan,373,72017,16650,Paid,2,5
+Isabella Rivera,Not Eligible for Loan,628,82761,37256,Defaulted,2,1
+Carlos Flores,Not Eligible for Loan,433,83426,14420,Paid,2,7
+Jose Garcia,Conditionally Eligible,542,88554,46254,Paid,4,3
+Jose Rivera,Not Eligible for Loan,466,80228,5289,Defaulted,5,8
+Miguel Dela Cruz,Not Eligible for Loan,695,55265,21449,Defaulted,4,5
+Isabella Garcia,Not Eligible for Loan,325,118742,35614,Paid,2,2
+Jose Reyes,Not Eligible for Loan,843,67517,44855,Defaulted,4,5
+Sophia Reyes,Not Eligible for Loan,454,28978,40269,Defaulted,2,3
+Carlos Dela Cruz,Conditionally Eligible,511,20356,24383,Paid,2,2
+Juan Reyes,Not Eligible for Loan,335,107104,14841,Defaulted,1,4
+Camila Martinez,Eligible for Loan,772,103732,16245,Paid,0,9
+Sophia Martinez,Not Eligible for Loan,439,112695,5429,Defaulted,3,2
+Isabella Dela Cruz,Conditionally Eligible,620,93391,13348,Paid,4,2
+Juan Flores,Conditionally Eligible,691,41374,26429,Paid,4,7
+Juan Dela Cruz,Not Eligible for Loan,396,79736,18436,Paid,4,4
+Isabella Torres,Not Eligible for Loan,488,81467,8431,Defaulted,1,5
+Carlos Reyes,Not Eligible for Loan,386,89387,32771,Defaulted,3,7
+Anna Garcia,Eligible for Loan,703,90338,38683,Paid,2,9
+Isabella Rivera,Eligible for Loan,709,98291,41540,Paid,5,3
+Carlos Rivera,Not Eligible for Loan,654,94464,39100,Defaulted,0,5
+Miguel Martinez,Not Eligible for Loan,574,37773,27758,Defaulted,4,3
+Isabella Santos,Not Eligible for Loan,829,34077,46387,Defaulted,2,3
+Isabella Martinez,Conditionally Eligible,601,42607,13025,Paid,4,10
+Luis Torres,Not Eligible for Loan,444,60772,14372,Defaulted,0,4
+Camila Rivera,Conditionally Eligible,642,93318,38797,Paid,5,2
+Anna Torres,Conditionally Eligible,588,96115,28403,Paid,0,5
+Juan Dela Cruz,Conditionally Eligible,687,74268,27151,Paid,2,4
+Luis Garcia,Conditionally Eligible,603,102375,10597,Paid,2,2
+Juan Garcia,Eligible for Loan,747,116069,29230,Paid,3,8
+Juan Flores,Not Eligible for Loan,624,22507,23545,Defaulted,1,1
+Juan Flores,Conditionally Eligible,686,117471,16233,Paid,5,9
+Luis Reyes,Eligible for Loan,738,91359,44297,Paid,3,7
+Miguel Santos,Not Eligible for Loan,656,50550,43713,Defaulted,0,6
+Isabella Martinez,Conditionally Eligible,590,109246,48967,Paid,2,7
+Camila Torres,Not Eligible for Loan,355,112238,8651,Paid,0,3
+Luis Torres,Conditionally Eligible,739,28275,13015,Paid,2,7
+Carlos Torres,Not Eligible for Loan,645,61597,6998,Defaulted,5,6
+Luis Reyes,Eligible for Loan,812,75235,33619,Paid,4,5

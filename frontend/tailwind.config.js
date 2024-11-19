@@ -9,6 +9,7 @@ export default {
       colors: {
         black: '#252525',
         black2: '#424242',
+        black3: '#1a1a1a',
         white: '#f5f5f5',
       },
       boxShadow: {

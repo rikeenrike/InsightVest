@@ -1,15 +1,13 @@
-import React from 'react';
-
-const Navbar: React.FC = () => {
+export default function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 bg-black/80 backdrop-blur-md transition-all duration-300">
+    <nav className="sticky top-0 left-0 w-full z-50 bg-black3/80 backdrop-blur-md transition-all duration-300">
       <div className="max-w-[70vw] h-[10vh] mx-auto py-4 flex justify-between items-center">
         {/* Logo */}
         <div className='flex items-center justify-center'>
-        {/* <img src="logo.png" alt="InsightVest.dev" className="h-10" /> */}
-        <a href="/" className="text-2xl font-bold text-white">
-          InsightVest.dev
-        </a>
+          {/* <img src="logo.png" alt="InsightVest.dev" className="h-10" /> */}
+          <a href="/" className="text-2xl font-bold text-white">
+            InsightVest.dev
+          </a>
         </div>
 
         <div className="space-x-4">
@@ -29,6 +27,4 @@ const Navbar: React.FC = () => {
       </div>
     </nav>
   );
-};
-
-export default Navbar;
+}
